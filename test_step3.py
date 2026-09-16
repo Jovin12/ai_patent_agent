@@ -163,4 +163,4 @@ if __name__ == "__main__":
     for r in results:
         print(
             f"Score: {r['similarity_score']:.4f} | Claim {r['claim_id']}: {r['clause']}"
-        )
+        ) # successfully tested test_step3
