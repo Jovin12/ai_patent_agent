@@ -1,2 +1,4 @@
 /cpc_db
 /__pycache__
+/patent_env
+/.pytest_cache
